@@ -5,10 +5,10 @@ This challenge involves using Python, SQLAlchemy, Pandas, and Matplotlib to cond
 ## Purpose
 The purpose is to empower users with insights for a successful vacation by leveraging programming tools for data analysis. Through precise precipitation analysis, station activity identification, and temperature statistics, the challenge aims to provide a clear understanding of Honolulu's climate. The design of a Flask API further facilitates easy access to relevant climate information, ensuring users make well-informed decisions for their holiday experience.
 
-![image](https://github.com/Mitajoshi/sqlalchemy-challenge/assets/142932546/e65a0854-82e4-4ea6-a4df-8425cd7874e1)
+<img width="372" alt="image" src="https://github.com/Mitajoshi/sqlalchemy-challenge/assets/142932546/467c929a-c70d-4112-a097-e4bf35ca8e8a">
 
-![image](https://github.com/Mitajoshi/sqlalchemy-challenge/assets/142932546/89cd4288-8615-4ab3-bab1-278aca9178c6)
 
+<img width="452" alt="image" src="https://github.com/Mitajoshi/sqlalchemy-challenge/assets/142932546/0e997763-64d7-4952-a64d-24cd18b48713">
 
 
 ## Instructions
